@@ -1,0 +1,17 @@
+{
+  "loader": "GoldHEN",
+  "version": "2.4b18.9",
+  "version_confirmation": "interpreted_from_user_report",
+  "game": {
+    "cusa": "CUSA08519",
+    "update": "1.29"
+  },
+  "afr_compatibility": "not_tested",
+  "prx_compatibility": "not_tested",
+  "next_steps": [
+    "Confirm exact GoldHEN version string in console UI",
+    "Confirm plugin loader enabled and AFR build",
+    "Back up saves and test offline only",
+    "Collect non-sensitive file access observations before redirection"
+  ]
+}
