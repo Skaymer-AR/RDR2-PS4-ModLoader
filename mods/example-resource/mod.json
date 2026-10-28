@@ -1,0 +1,13 @@
+{
+  "id": "example-resource",
+  "name": "Example resource manifest (no payload)",
+  "type": "resource",
+  "targets": [
+    {
+      "cusa": "CUSA08519",
+      "update": "1.29"
+    }
+  ],
+  "files": [],
+  "enabled": false
+}
